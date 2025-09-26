@@ -70,9 +70,29 @@ sudo ufw status numbered &gt; ~/Task4-Firewall/ufw-status.txt
 
 <h3>📸 Screenshots Required</h3>
 <p>windows-inbound-rule-block-telnet.png — Windows inbound rules list after adding Telnet block</p>
+<img
+  src="https://github.com/FATEHALI-ABBASALI/Cybersecurity-Task4-Setup-and-Use-a-Firewall/blob/753238f1ac100976beef5d5b46c202f4498405ea/screenshots/windows-inbound-rule-block-telnet.png"
+  alt="Windows Firewall Inbound Rule Blocking Telnet"
+  loading="lazy"
+  decoding="async"
+/>
 
 <p>windows-test-netconnection-port23.png — Windows PowerShell Test-NetConnection result</p>
-<p>windows-export-policy.png — Windows firewall export file confirmation</p>
+<img
+  src="https://raw.githubusercontent.com/FATEHALI-ABBASALI/Cybersecurity-Task4-Setup-and-Use-a-Firewall/main/screenshots/windows-test-netconnection-port23.png"
+  alt="Windows Test-NetConnection Port 23"
+  style="max-width:100%;height:auto;display:block;margin:0 auto;"
+  loading="lazy"
+  decoding="async"
+/>
+
 <p>linux-ufw-status-block-telnet.png — Linux UFW status numbered after deny rule</p>
-<p>linux-test-port23.png — Linux nc or nmap test result</p>
+<img
+  src="https://raw.githubusercontent.com/FATEHALI-ABBASALI/Cybersecurity-Task4-Setup-and-Use-a-Firewall/main/screenshots/linux-ufw-status-block-telnet.png"
+  alt="Linux UFW Status Blocking Telnet"
+  style="max-width:100%;height:auto;display:block;margin:0 auto;"
+  loading="lazy"
+  decoding="async"
+/>
+
 
